@@ -1,0 +1,23 @@
+# Arquivos compilados
+*.exe
+*.class
+*.o
+*.out
+app
+
+# Diretórios de build
+/build/
+/bin/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

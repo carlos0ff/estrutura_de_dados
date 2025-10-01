@@ -1,0 +1,7 @@
+
+/**
+ * Fun
+ */
+int biranrySearch(int* ){
+
+}
