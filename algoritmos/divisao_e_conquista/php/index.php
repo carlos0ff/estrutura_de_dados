@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Divisão e Conquista - Implementação em PHP
  * Autor: Seu Nome
@@ -22,4 +23,3 @@ if (PHP_SAPI === 'cli') {
     $divisoeConquista = new DivisoeConquista();
     $divisoeConquista->demonstrar();
 }
-?>
