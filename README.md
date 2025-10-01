@@ -14,8 +14,7 @@
   <img src="image/banner/estrutura_de_dados.png" alt="Estruturas de Dados - Professor Edkallenn Lima" style="width: 100%; max-width: 900px;" />
 </div>
 
-git clone https://github.com/carlos0ff/estrutura_de_dados.git
-About
+
 
 Repositório acadêmico com implementações práticas em linguagem C, desenvolvido durante o 4º período da disciplina Estrutura de Dados I & II, do curso de Ciência da Computação, sob orientação do professor Edkallenn Lima.
 
@@ -129,4 +128,3 @@ Abra um ```bash Pull Request```
 ## 📝 Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
 
->>>>>>> 18ddd81 (docs: adiciona README inicial com descrição do projeto)
