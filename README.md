@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/carlos0ff/estrutura_de_dados?style=for-the-badge&label=STARS&color=yellow&logo=github)](https://github.com/carlos0ff/estrutura_de_dados/stargazers)
@@ -110,21 +109,3 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 <p align="center">
   Feito com ❤️ por <a href="https://github.com/carlos0ff">José Carlos</a>
 </p>
-=======
-
-## 🤝 Contribuindo
-Contribuições são bem-vindas! Siga estos passos:
-
-Fork o projeto
-
-Crie uma branch para sua feature ```bash git checkout -b feature/AmazingFeature```
-
-Commit suas mudanças ```bash git commit -m 'Add some AmazingFeature'```
-
-Push para a branch ```bash git push origin feature/AmazingFeature```
-
-Abra um ```bash Pull Request```
-
-## 📝 Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
-
