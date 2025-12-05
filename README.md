@@ -20,7 +20,7 @@ Repositório acadêmico com implementações práticas em linguagem C, desenvolv
 # 📁 Estrutura do Repositório
 
 <p align="center">
-  Este repositório contém implementações dos principais algoritmos e estruturas de dados abordados na disciplina 
+  Este repositório contém implementações dos principais algoritmos e estruturas de dados abordados na disciplina
   <strong>Estruturas de Dados </strong>, ministrada pelo professor <strong><a href="https://www.linkedin.com/in/edkallenn/" target="_blank">Edkallenn Lima</a></strong>.
 </p>
 
@@ -65,20 +65,20 @@ Repositório acadêmico com implementações práticas em linguagem C, desenvolv
   ├── 📁 manipulacao_arquivos
   ├── 📁 testes_benchmarks
 
-  📄 .gitignore  
-  📄 LICENSE  
+  📄 .gitignore
+  📄 LICENSE
   📄 README.md
 ```
 <p align="center">
 
-><strong><a href="https://www.linkedin.com/in/edkallenn/" target="_blank">Edkallenn Lima</a></strong>, além de excelente professor, é também o meu policial e sogrinho favorito
+<!-- ><strong><a href="https://www.linkedin.com/in/edkallenn/" target="_blank">Edkallenn Lima</a></strong>, além de excelente professor, é também o meu policial e sogrinho favorito -->
 
 </p>
 
 
 ---
 
-## 🤝 Contribuições 
+## 🤝 Contribuições
 são bem-vindas! Siga estes passos:
 
 - Faça um fork do projeto
@@ -94,7 +94,7 @@ git checkout -b feature/nova-funcionalidade
 ```bash
  git push origin feature/nova-funcionalidade
 ```
-- Abra um Pull Request 
+- Abra um Pull Request
 
 ---
 
