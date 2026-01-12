@@ -1,4 +1,4 @@
-# vetor
+# buffer
 
 ## Descrição
 Explique aqui o funcionamento do algoritmo ou estrutura.

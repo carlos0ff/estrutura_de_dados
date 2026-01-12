@@ -1,4 +1,4 @@
-# vetor
+# kmp
 
 ## Descrição
 Explique aqui o funcionamento do algoritmo ou estrutura.

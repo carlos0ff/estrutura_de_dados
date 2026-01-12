@@ -1,1 +1,0 @@
-// vetor_simples.c 

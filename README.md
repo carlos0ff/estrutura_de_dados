@@ -69,11 +69,11 @@ Repositório acadêmico com implementações práticas em linguagem C, desenvolv
   📄 LICENSE
   📄 README.md
 ```
-<p align="center">
+<!-- <p align="center">
 
-<!-- ><strong><a href="https://www.linkedin.com/in/edkallenn/" target="_blank">Edkallenn Lima</a></strong>, além de excelente professor, é também o meu policial e sogrinho favorito -->
+><strong><a href="https://www.linkedin.com/in/edkallenn/" target="_blank">Edkallenn Lima</a></strong>, além de excelente professor, é também o meu policial e sogrinho favorito
 
-</p>
+</p> -->
 
 
 ---

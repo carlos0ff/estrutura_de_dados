@@ -1,4 +1,4 @@
-# vetor
+# lista_dupla
 
 ## Descrição
 Explique aqui o funcionamento do algoritmo ou estrutura.
