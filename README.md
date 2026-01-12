@@ -13,8 +13,6 @@
   <img src="image/banner/estrutura_de_dados.png" alt="Estruturas de Dados - Professor Edkallenn Lima" style="width: 100%; max-width: 900px;" />
 </div>
 
-
-
 Repositório acadêmico com implementações práticas em linguagem C, desenvolvido durante o 4º período da disciplina Estrutura de Dados I & II, do curso de Ciência da Computação, sob orientação do professor Edkallenn Lima.
 
 # 📁 Estrutura do Repositório
